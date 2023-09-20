@@ -36,7 +36,9 @@ natural learning path.
 
 - [ ] Big O notation
 
-## Rust syntax
+## Rust
+
+### Syntax
 
 - [ ] Variables, basic types
 - [ ] Basic control structures: if/while/loop/for (basic syntax, with no
@@ -70,6 +72,12 @@ natural learning path.
 - [ ] Const generics
 - [ ] GAT
 - [ ] HRTB
+
+### Tooling
+
+- [ ] cargo new/build/run/test
+- [ ] Dependency management (cargo add, Cargo.toml, Cargo.lock)
+- [ ] cargo clippy
 
 ## SW Engineering
 
