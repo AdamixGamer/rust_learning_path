@@ -40,7 +40,7 @@ natural learning path.
 
 ### Syntax
 
-- [ ] Variables, basic types
+- [X] Variables, basic types
 - [ ] Basic control structures: if/while/loop/for (basic syntax, with no
       iterator understanding)
 - [ ] Functions
