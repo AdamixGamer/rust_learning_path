@@ -41,22 +41,22 @@ natural learning path.
 ### Syntax
 
 - [X] Variables, basic types
-- [ ] Basic control structures: if/while/loop/for (basic syntax, with no
+- [X] Basic control structures: if/while/loop/for (basic syntax, with no
       iterator understanding)
-- [ ] Functions
-- [ ] Structs
-- [ ] String handling
+- [X] Functions
+- [X] Structs
+- [X] String handling
 - [ ] Basic IO
-- [ ] Basic enums (without payload)
-- [ ] Basic match
+- [X] Basic enums (without payload)
+- [X] Basic match
 - [ ] Enums as algebraic types
 - [ ] Match
 - [ ] Option
 - [ ] Result
-- [ ] Vec
-- [ ] References, ownership model
+- [X] Vec
+- [X] References, ownership model
 - [ ] Iterator, for loop
-- [ ] HashMap
+- [X] HashMap
 - [ ] Type aliases
 - [ ] Traits
 - [ ] Generic functions, basic trait bounds
