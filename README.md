@@ -14,7 +14,7 @@ natural learning path.
 
 ### Git
 
-- [ ] Basic GIT usage - clone/push/fetch/pull/commit
+- [X] Basic GIT usage - clone/push/fetch/pull/commit
 - [ ] Branches, branching strategies
 - [ ] rebase vs merge
 - [ ] Interactive rebase
@@ -49,13 +49,13 @@ natural learning path.
 - [ ] Basic IO
 - [X] Basic enums (without payload)
 - [X] Basic match
-- [ ] Enums as algebraic types
-- [ ] Match
-- [ ] Option
-- [ ] Result
+- [X] Enums as algebraic types
+- [X] Match
+- [X] Option
+- [X] Result
 - [X] Vec
 - [X] References, ownership model
-- [ ] Iterator, for loop
+- [X] Iterator, for loop
 - [X] HashMap
 - [ ] Type aliases
 - [ ] Traits
